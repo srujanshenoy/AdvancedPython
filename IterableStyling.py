@@ -1,4 +1,6 @@
 """
+TIP #2: Printing Iterables Fancily
+
 learnt from Idently@YouTube
 """
 
@@ -12,7 +14,9 @@ l: list[int] = [1, 2, 3, 4, 5]
 print(l)
 # (OUTPUT): [1, 2, 3, 4, 5]
 
-print("\n\n\nversus\n\n\n")
+print("\n\n\nversus\n\n\n") # Show gap for contrast
+
+
 
 # print like this:
 print(*l , sep=' ', end=f'\nis the iterable list\n')

@@ -1,4 +1,7 @@
 """
+
+TIP #1: Caching
+
 Learnt from Indently@youtube
 
 Caching in python is a way to almost instantly speed up your python programs
