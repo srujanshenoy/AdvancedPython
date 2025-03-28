@@ -1,6 +1,8 @@
 """
 Learnt from Indently@YouTube
 
+ Tip #4: A faster for i in range type of loop :/
+
 Keep in mind that you can only use the faster method if you dont care about the value,
 The faster method uses the    i (or) _     in the script as a NoneType object.
 

@@ -7,6 +7,7 @@ A fucntion that builds on another one
 
 from functools import partial
 
+#  amazonq-ignore-next-line
 def multiply(a, b): return a*b
 
 double = partial(multiply, 2)
